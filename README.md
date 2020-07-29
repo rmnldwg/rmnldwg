@@ -2,7 +2,7 @@
 
 I am a PhD student in the departement of physics at the University of Zürich. My research interests revolve around probabilistic modelling in medical physics (radiation oncology mostly).
 
-Later this year, I will publish a paper on the probabilistic model of lymphatic metastatic spread and you can find the respective code here as well
+<!--- Later this year, I will publish a paper on the probabilistic model of lymphatic metastatic spread and you can find the respective code here as well -->
 
 - 📫 How to reach me: [roman.ludwig@usz.ch](mailto:roman.ludwig@usz.ch)
 
