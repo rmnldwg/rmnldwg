@@ -1,22 +1,36 @@
 # Hey, I'm Roman 👋
 
-I am a PhD student in the departement of physics at the University of Zürich. My research interests revolve around probabilistic modelling in medical physics (radiation oncology mostly).
+I am a PhD student in the departement of physics at the University of Zurich. My research interests revolve around probabilistic modelling in medical physics (radiation oncology mostly).
 
-<!--- Later this year, I will publish a paper on the probabilistic model of lymphatic metastatic spread and you can find the respective code here as well -->
+## 📚🔍 Research fields
 
-- 📫 How to reach me: [roman.ludwig@usz.ch](mailto:roman.ludwig@usz.ch)
+In our main project, we try to model the risk for metastases in the lymph system of patients with squamous cell carcinomas in the head & neck region. You can read more on that in an excellent paper by a PostDoc in our group: [Pouymayou *et al*](https://doi.org/10.1088/1361-6560/ab2a18). You can also check out our repository [lymph](https://lymph-model.readthedocs.io/en/latest/), in which we host the code to learn and compute this risk of lymphatic metastases using **Bayesian networks** (mentioned paper) and also - this is new - **hidden Markov models** (new paper that was recently accepted, stay tuned for that!).
 
-<!--
-**rmnldwg/rmnldwg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Another project deals with optimal fractionation schemes. Fractionation is the splitting of a prescribed dose of radiation designed to kill cancer cells in a tumor into multiple sessions to allow the healthy parts of the body to recover better. Innovative technologies like the [MR-LinAc](https://viewray.com/mri-guided-roar/) at our institution enable us to tackle this problem with **reinforcement learning**
 
-Here are some ideas to get you started:
+## 🔭 Topics I'm interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* probabilistic models
+* interpretable machine learning methods
+* statistical learning theory
+
+and also (though not necessarily research-related)
+
+* 🌌 (theoretical) astrophysics (I did my master in [this group](https://www.tat.physik.uni-tuebingen.de/~kokkotas/Welcome.html))
+* web development
+* open source
+
+## 🛠 Tools I use
+
+* python
+* jupyter
+* MCMC methods & implementations (like [``emcee``](https://emcee.readthedocs.io/en/stable/))
+* matplotlib
+* julia
+* vs code
+* django
+
+<hr>
+
+**Thanks a lot for reading** 😃
+📫 In case you want to reach me: [roman.ludwig@usz.ch](mailto:roman.ludwig@usz.ch)
