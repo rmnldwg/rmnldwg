@@ -24,7 +24,7 @@ and also (though not necessarily research-related)
 
 <span>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="jupyter_48x48.png"/>
+  <img src="jupyter_notext_48x48.png"/>
   <img src="numpy_48x48.png"/>
   <img src="matplotlib_48x48.png"/>
   <img src="pandas_36x48.png"/>
@@ -34,16 +34,6 @@ and also (though not necessarily research-related)
   <img src="https://img.icons8.com/windows/48/000000/django.png"/>
 </span>
 
-* python
-* jupyter
-* MCMC methods & implementations (like [``emcee``](https://emcee.readthedocs.io/en/stable/))
-* matplotlib
-* julia
-* vs code
-* django
-
-<hr>
-
-**Thanks a lot for reading** 😃
+## Thanks a lot for reading  😃
 
 📫 In case you want to reach me: [roman.ludwig@usz.ch](mailto:roman.ludwig@usz.ch)
