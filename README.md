@@ -23,7 +23,10 @@ and also (though not necessarily research-related)
 ## 🛠 Tools I use
 
 <span>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python 3"/>
+  <img src="jupyter_48x48.png"/>
+  <img src="numpy_48x48.png"/>
+  <img src="scipy_48x48.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/windows/48/000000/django.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
